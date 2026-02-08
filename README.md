@@ -1,6 +1,6 @@
 # mono-okay
 
-A dark VS Code / Cursor color theme based on Monokai Pro (Filter Machine) colors.
+A dark VS Code / Cursor color theme based on the original Sublime Text editor default theme - Monokai.
 
 ## Install
 
@@ -14,8 +14,7 @@ vscode-themes/
 ├── package.json
 ├── themes/
 │   └── mono-okay-color-theme.json
-├── README.md
-└── THEME_NEXT_STEPS.md
+└── README.md
 ```
 
 To add more themes later, add another JSON file under `themes/` and another entry in `contributes.themes` in `package.json`.
