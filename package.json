@@ -1,0 +1,19 @@
+{
+  "name": "mono-okay",
+  "displayName": "mono-okay",
+  "description": "A dark color theme based on Monokai Pro (Filter Machine) colors.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "mono-okay",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mono-okay-color-theme.json"
+      }
+    ]
+  }
+}
