@@ -3,8 +3,12 @@
   "displayName": "mono-okay",
   "description": "A dark color theme based on Monokai Pro (Filter Machine) colors.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmcmcmcm123/vscode-themes.git"
+  },
   "engines": {
-    "vscode": "^1.109.0"
+    "vscode": "^1.60.0"
   },
   "categories": ["Themes"],
   "contributes": {
